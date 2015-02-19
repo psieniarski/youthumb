@@ -1,6 +1,6 @@
 {
   "name": "youthumb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate URLs of a YouTube Video thumbnails",
   "main": "index.js",
   "repository": {
@@ -20,7 +20,4 @@
     "url": "https://github.com/psieniarski/youimg/issues"
   },
   "homepage": "https://github.com/psieniarski/youimg",
-  "dependencies": {
-    "deep-extend": "^0.3.2"
-  }
 }
