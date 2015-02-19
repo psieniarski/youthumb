@@ -1,0 +1,26 @@
+{
+  "name": "youthumb",
+  "version": "0.1.0",
+  "description": "yt thumbs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psieniarski/youimg.git"
+  },
+  "keywords": [
+    "youtube",
+    "yt",
+    "thumbs",
+    "generate",
+    "url"
+  ],
+  "author": "Paweł Sieniarski <paabson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psieniarski/youimg/issues"
+  },
+  "homepage": "https://github.com/psieniarski/youimg",
+  "dependencies": {
+    "deep-extend": "^0.3.2"
+  }
+}
