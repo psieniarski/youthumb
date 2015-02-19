@@ -2,7 +2,7 @@
 
 Generate yt thumbs. 
 
-Examples
+## Examples
 
 ```js
 	// http://img.youtube.com/vi/I9khEhPNbOc/default.jpg
@@ -14,7 +14,7 @@ Examples
 	// http://img.youtube.com/vi/I9khEhPNbOc/hqdefault.jpg
 	youthumb('I9khEhPNbOc').get('high') 
 
-	http://img.youtube.com/vi/I9khEhPNbOc/1.jpg
+	// http://img.youtube.com/vi/I9khEhPNbOc/1.jpg
 	youthumb('I9khEhPNbOc').get(1)
 
 	// http://img.youtube.com/vi/I9khEhPNbOc/default.jpg
