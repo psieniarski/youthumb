@@ -1,7 +1,5 @@
 # youthumb
 
-Generate yt thumbs. 
-
 ## Examples
 
 ```js

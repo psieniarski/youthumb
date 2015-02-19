@@ -1,7 +1,7 @@
 {
   "name": "youthumb",
   "version": "0.1.0",
-  "description": "yt thumbs",
+  "description": "Generate URLs of a YouTube Video thumbnails",
   "main": "index.js",
   "repository": {
     "type": "git",
