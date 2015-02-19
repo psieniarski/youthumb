@@ -4,7 +4,7 @@
 
 ```js
 // http://img.youtube.com/vi/I9khEhPNbOc/default.jpg
-youthumb('I9khEhPNbOc').get('medium')  
+youthumb('I9khEhPNbOc').get('default')  
 
 // http://img.youtube.com/vi/I9khEhPNbOc/mqdefault.jpg
 youthumb('I9khEhPNbOc').get('medium')
