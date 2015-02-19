@@ -1,5 +1,10 @@
 # youthumb
 
+## Installation
+```bash
+$ npm install youthumb
+```
+
 ## Examples
 
 ```js
