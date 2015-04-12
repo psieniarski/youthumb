@@ -9,6 +9,8 @@ var config = {
 		default: 'default',
 		high:    'hqdefault',
 		medium:  'mqdefault',
+		standard: 'sddefault',
+		maxres:  'maxresdefault'
 	}
 }; 
 
